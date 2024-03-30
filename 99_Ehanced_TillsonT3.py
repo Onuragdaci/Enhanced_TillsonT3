@@ -1,3 +1,8 @@
+!pip install pandas_ta
+!pip install yfinance
+!pip install scikit-learn
+!pip install numpy
+!pip install vectorbt
 import pandas_ta as ta
 import yfinance as yf
 from sklearn.metrics import accuracy_score
